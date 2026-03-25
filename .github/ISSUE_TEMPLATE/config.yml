@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security policy
+    url: https://github.com/stacknil/.github/blob/main/SECURITY.md
+    about: Read the default security reporting guidance before disclosing vulnerability details.
+  - name: Support guidelines
+    url: https://github.com/stacknil/.github/blob/main/SUPPORT.md
+    about: Read the default support guidance before opening a request.

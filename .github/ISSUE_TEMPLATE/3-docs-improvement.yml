@@ -1,0 +1,30 @@
+name: Docs improvement
+description: Suggest documentation fixes or clarifications
+title: "[Docs] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for documentation fixes, accuracy issues, or missing explanations.
+
+  - type: input
+    id: location
+    attributes:
+      label: Affected file or page
+      placeholder: README.md, docs/guide.md, notebook section, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is unclear or inaccurate?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true
