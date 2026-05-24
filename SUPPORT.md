@@ -8,6 +8,8 @@
 - Security concerns: follow `SECURITY.md`
 - Repository-specific usage questions: read the target repository README first
 
+If a target repository defines its own `SUPPORT.md`, `SECURITY.md`, issue forms, or contribution guidance, follow the repository-specific path instead of this shared default.
+
 ## Expectations
 
 Support is provided on a best-effort basis.

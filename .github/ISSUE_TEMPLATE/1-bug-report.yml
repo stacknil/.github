@@ -6,6 +6,7 @@ body:
     attributes:
       value: |
         Please provide a minimal, technically useful report.
+        If the issue is a suspected vulnerability or sensitive exposure, do not use this form; follow the repository security policy instead.
 
   - type: textarea
     id: summary

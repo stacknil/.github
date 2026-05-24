@@ -19,6 +19,7 @@ Closes #
 ## Validation
 
 - [ ] I tested the change locally
+- [ ] I followed any repository-specific validation or contribution guidance that applies
 - [ ] I updated docs if behavior changed
 - [ ] I kept the pull request focused
 - [ ] I avoided unrelated edits

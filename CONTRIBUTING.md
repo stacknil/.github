@@ -7,6 +7,7 @@ Please check the following first:
 - The problem is reproducible.
 - The topic is not already covered by an existing issue or pull request.
 - The report belongs in public issue tracking rather than private security reporting.
+- If the target repository documents repository-specific contribution or workflow guidance, follow that guidance first.
 
 ## Good issue reports include
 
@@ -29,6 +30,7 @@ Please check the following first:
 
 Repositories under this account may range from prototype to more stable tooling.
 Read the target repository README before assuming production guarantees.
+If the target repository defines its own `CONTRIBUTING.md`, issue templates, or workflow docs, those repository-specific instructions take precedence over this default.
 
 ## Communication expectations
 
